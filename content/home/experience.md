@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "Federal University of Minas Gerais"
   company_url = ""
   location = "Belo Horizonte"
-  date_start = "2015-08"
-  date_end = "2015-12"
+  date_start = "2015-08-01"
+  date_end = "2015-12-31"
   description = """
   Responsibilities include:
   
