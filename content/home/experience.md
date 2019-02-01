@@ -21,25 +21,32 @@ date_format = "January 2006"
 [[experience]]
   title = "Professor"
   company = "Federal University of Minas Gerais"
-  company_url = ""
-  location = "Belo Horizonte"
+  company_url = "www.cedeplar.ufmg.br"
+  location = "Belo Horizonte-MG"
   date_start = "2015-08-01"
   date_end = "2015-12-31"
+  description = """Taught Introduction to Economics."""
+
+[[experience]]
+  title = "Teaching assistant"
+  company = "Federal University of Minas Gerais"
+  company_url = "www.face.ufmg.br"
+  location = "Belo Horizonte-MG"
+  date_start = "2011-04-01"
+  date_end = "2012-08-31"
+  description = """Teaching assistant to Introduction to Economics."""
+  
+[[experience]]
+  title = "Intern"
+  company = "Minas Gerais' Development Bank"
+  company_url = "https://www.bdmg.mg.gov.br/"
+  location = "Belo Horizonte-MG"
+  date_start = "2011-06-01"
+  date_end = "2011-12-31"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Monitoring seed capital investment funds in which the bank was an investor.
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
