@@ -1,12 +1,12 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "André Cordeiro Valério"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "PhD Candidate in Economics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
