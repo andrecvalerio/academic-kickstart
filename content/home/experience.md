@@ -36,17 +36,4 @@ date_format = "January 2006"
   date_end = "2011-12"
   description = """Teaching assistant to Introduction to Economics"""
   
-[[experience]]
-  title = "Intern"
-  company = "Minas Gerais' Development Bank"
-  company_url = "https://www.bdmg.mg.gov.br/"
-  location = "Belo Horizonte"
-  date_start = "2011-06"
-  date_end = "2011-12"
-  description = """ 
-  Responsibilities include:
-  
-  * Monitoring seed capital investment funds in which the bank was an investor
-  """
-
 +++
