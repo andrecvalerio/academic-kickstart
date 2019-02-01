@@ -1,10 +1,10 @@
 +++
-# Projects widget.
-widget = "projects"
+# Research widget.
+widget = "research"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
