@@ -1,7 +1,7 @@
 +++
 # Research widget.
 widget = "research"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 title = "Research"
