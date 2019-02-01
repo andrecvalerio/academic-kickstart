@@ -39,9 +39,9 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/open?id=1iV4-kBqIZYDZOnADt8aJh2TV0UhdpYOr"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/andrecvalerio/world-shocks"
 url_dataset = ""
 url_project = ""
 url_slides = ""
