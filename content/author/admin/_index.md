@@ -69,11 +69,6 @@ interests = [
   icon_pack = "fab"
   link = "https://twitter.com/andrecvalerio"
 
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
 [[social]]
   icon = "github"
   icon_pack = "fab"
@@ -85,6 +80,12 @@ interests = [
    icon = "cv"
    icon_pack = "ai"
    link = "files/CVEnglish.pdf"
+   
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/acvalerio/"
 
 +++
 
