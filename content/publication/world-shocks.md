@@ -5,7 +5,7 @@ title = "World Shocks and Emerging Economies: Getting off the Commodity Roller C
 date = ""
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mauro S.Ferreira", "André C.Valério"]
+authors = ["Joint with Mauro S.Ferreira"]
 
 # Publication type.
 # Legend:
@@ -61,7 +61,7 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
+#[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption 😄"
 
