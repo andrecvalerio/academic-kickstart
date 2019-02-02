@@ -11,11 +11,12 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 21
 
 +++
 
+- **Short course**: Bayesian Vector Autoregression with Block Recursion, UFMG (2017)
 - **Professor**: Introduction to Economics, UFMG (2015)
 - **Teaching assistant**: Introduction to Economics, UFMG (2011-2012)
-- **Short course**: Bayesian Vector Autoregression with Block Recursion, UFMG (2017)
+
 
