@@ -20,6 +20,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Bayesian Vector Autoregressions and Small Sample Bias Correction"
+  organization = "Barcelona Graduate School in Economics"
+  certificate_url = "https://drive.google.com/open?id=0Byvx3-ZEKTkPbTdTeEpwNzNVT2c"
+  date_start = "2014-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  title = "Empirical Time Series Methods for Macroeconomics"
+  organization = "Barcelona Graduate School in Economics"
+  certificate_url = "https://drive.google.com/open?id=0Byvx3-ZEKTkPbTdTeEpwNzNVT2c"
+  date_start = "2014-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   title = "Introduction to R"
   organization = "DataCamp"
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/4877a0f86e5fc1517442965e92e790972ef4fa67"
