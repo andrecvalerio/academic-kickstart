@@ -4,7 +4,7 @@ subtitle = ""
 
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
-draft = false
+draft = true #set drat to false to post it
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Admin"]
@@ -76,4 +76,4 @@ image = "theme-cupcake.png"
 caption = "Cupcake"
 +++
 
-This is a test. Ignore it.
+This is a template. Modify it.
