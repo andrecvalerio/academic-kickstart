@@ -162,5 +162,13 @@ date_format = "Jan 2006"
   date_start = "2019-01-31"
   date_end = ""
   description = ""
+  
+  [[item]]
+  title = "Joining Data in SQL"
+  organization = "DataCamp"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/e98a3642ab1b17a58ffd4ee064e0f72c4473612a"
+  date_start = "2019-02-07"
+  date_end = ""
+  description = ""
 
 +++
