@@ -64,10 +64,10 @@ interests = [
   icon_pack = "fas"
   link = "mailto:acvalerio@protonmail.com"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/andrecvalerio"
+#[[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/andrecvalerio"
 
 [[social]]
   icon = "github"
