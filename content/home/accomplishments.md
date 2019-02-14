@@ -171,4 +171,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+  [[item]]
+  title = "Forecasting using R"
+  organization = "DataCamp"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/d5e786ecef76e7b4eb20fc3d7053421910b36f13"
+  date_start = "2019-02-14"
+  date_end = ""
+  description = ""
+
+
 +++
