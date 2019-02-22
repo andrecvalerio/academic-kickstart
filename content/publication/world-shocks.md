@@ -1,6 +1,6 @@
 +++
-title = "World Shocks and Emerging Economies: Getting off the Commodity Roller Coaster"
-
+title = "Global Shocks and Emerging Economies: Disentangling the Commodity Roller Coaster"
+         
 # Date first published.
 date = ""
 
@@ -39,12 +39,12 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://drive.google.com/open?id=1kSxXJ18HdcZ6J4IriRlDFIhTmkFawwUY"
+url_pdf = "https://drive.google.com/open?id=1oG9M7czim73FeBvXoySnH8sGvdt6MAWu"
 url_preprint = ""
 url_code = "https://github.com/andrecvalerio/world-shocks"
 url_dataset = ""
 url_project = ""
-url_slides = "https://drive.google.com/open?id=19ARRgQO-dTtokfeiFMSLMqadPYmQfFPy"
+url_slides = "https://drive.google.com/open?id=1U43HthWwJ0JApY7vdqlSt6mulY_AG3xP"
 url_video = ""
 url_poster = ""
 url_source = ""
