@@ -89,5 +89,6 @@ interests = [
 
 +++
 
-I'm a PhD Candidate in Economics at FGV-EPGE. My research interests includes macroeconomics with heterogeneous agents, interaction of income inequality and macroeconomics, open economy macroeconomics, emerging economies business cycles, monetary policy and time series econometrics.
+I'm a PhD Candidate in Economics at FGV-EPGE. My research interests include economic development, growth, the interaction of income inequality and macroeconomics, open economy macroeconomics, emerging economies business cycles, monetary policy and time series econometrics.
+
 
