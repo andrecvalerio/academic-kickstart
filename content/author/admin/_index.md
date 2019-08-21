@@ -13,14 +13,14 @@ role = "PhD Candidate in Economics"
 organizations = [ { name = "Getulio Vargas Foundation", url = "http://epge.fgv.br" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include macroeconomics with heterogeneous agents, interaction of income inequality and macroeconomics, open economy macroeconomics, monetary policy and time series econometrics."
+bio = "My research interests include economic development, growth, the interaction of income inequality and macroeconomics, open economy macroeconomics, monetary policy and time series econometrics."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Macroeconomics with heterogeneous agents",
+  "Development",
   "Open economy macroeconomics",
   "Time series econometrics"
 ]
