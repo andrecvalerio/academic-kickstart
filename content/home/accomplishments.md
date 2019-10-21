@@ -179,5 +179,21 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+  [[item]]
+  title = "Introduction to Python"
+  organization = "DataCamp"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/7983461a2d6762a9997a5041d9214667f5e12257"
+  date_start = "2019-10-09"
+  date_end = ""
+  description = ""
 
+  
+  [[item]]
+  title = "Intermediate Python for Data Science"
+  organization = "DataCamp"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/12a4206a095630819a39460bcd10b73c1724acef"
+  date_start = "2019-10-21"
+  date_end = ""
+  description = ""
+  
 +++
