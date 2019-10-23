@@ -196,4 +196,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
+  [[item]]
+  title = "Python Data Science Toolbox Part 1"
+  organization = "DataCamp"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/8ff0ee4417fdd7ac69e71534e0d74ba1dff68dda"
+  date_start = "2019-10-23"
+  date_end = ""
+  description = ""
+  
+  
 +++
